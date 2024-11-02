@@ -1,2 +1,2 @@
 # BlinkIt-Sales-Analysis
-BlinkIt Grocery Sales Data Analysis
+This project focuses on analyzing grocery sales data from Blinkit using SQL for data extraction and Tableau for visualization
