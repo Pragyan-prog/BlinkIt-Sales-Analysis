@@ -1,5 +1,5 @@
-# BlinkIt Grocery Sales Data Analysis
-This project focuses on analyzing grocery sales data from Blinkit using SQL for data extraction and Tableau for visualization.
+# BlinkIt Grocery Product Analysis
+This project focuses on analyzing grocery product and its sales from Blinkit using SQL for data extraction and Tableau for visualization.
 # Project Overview
 The main objective of this project is to perform an in-depth analysis of Blinkit’s grocery sales data to identify trends and provide actionable insights. SQL is used for querying, filtering, and transforming the raw data, while Tableau is utilized to create interactive dashboards and visualizations.
 # Key Objectives:
@@ -19,3 +19,5 @@ Filters & Conditions: To extract relevant subsets of data based on time, region,
 Sales Overview: A high-level view of total sales, revenue, and growth trends over time.
 Product Performance: Insights into top-selling products and product categories driving the most revenue.
 Regional Sales: A geographical breakdown of sales performance across different regions.
+Identified consumer interest in low-fat products and pricing variations across product categories, informing targeted promotions and pricing strategies.
+Visualize revenue trends show Fruits & Vegetables and Snacks as leading categories, indicating customer preferences.
