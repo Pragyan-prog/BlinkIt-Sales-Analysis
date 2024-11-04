@@ -16,8 +16,7 @@ Joins: To combine data from multiple tables (e.g., sales, products, and customer
 Aggregations: To calculate metrics like total sales, average revenue per customer, and product performance.
 Filters & Conditions: To extract relevant subsets of data based on time, region, or category.
 # Tableau Dashboard:
-Sales Overview: A high-level view of total sales, revenue, and growth trends over time.
+Sales Overview: Sales trend analysis, outlet performance comparison, location- based sales analysis, product category insights and KPI tracking.
 Product Performance: Insights into top-selling products and product categories driving the most revenue.
-Regional Sales: A geographical breakdown of sales performance across different regions.
 Identified consumer interest in low-fat products and pricing variations across product categories, informing targeted promotions and pricing strategies.
 Visualize revenue trends show Fruits & Vegetables and Snacks as leading categories, indicating customer preferences.
